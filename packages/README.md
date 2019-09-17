@@ -1,7 +1,10 @@
 # BSN Wallet
 
-BitSN Wallet release
+BitSN Light Wallet release
+
+The latest version of the light wallet is V0.8.1
 
 ## Version History
+
 
 
